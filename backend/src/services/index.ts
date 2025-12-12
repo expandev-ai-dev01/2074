@@ -7,3 +7,6 @@
  */
 
 export * from './initExample';
+export * from './user';
+export { clientRegister } from './client';
+export { professionalRegister } from './professional';
